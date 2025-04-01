@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC USER\\Desktop\\code_sac\\Aula19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36609013-E12E-4E77-BF6F-36DC1ADEE4D1}|Aula19\\Aula19.csproj|c:\\users\\pc user\\desktop\\code_sac\\aula19\\aula19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36609013-E12E-4E77-BF6F-36DC1ADEE4D1}|Aula19\\Aula19.csproj|solutionrelative:aula19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC USER\\Desktop\\code_sac\\Aula19\\Aula19\\Program.cs",
+              "RelativeDocumentMoniker": "Aula19\\Program.cs",
+              "ToolTip": "C:\\Users\\PC USER\\Desktop\\code_sac\\Aula19\\Aula19\\Program.cs",
+              "RelativeToolTip": "Aula19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:34:34.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

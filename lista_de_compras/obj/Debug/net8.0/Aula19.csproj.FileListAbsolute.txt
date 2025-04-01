@@ -1,0 +1,14 @@
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\Aula19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\Aula19.AssemblyInfoInputs.cache
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\Aula19.AssemblyInfo.cs
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\Aula19.csproj.CoreCompileInputs.cache
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\bin\Debug\net8.0\Aula19.exe
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\bin\Debug\net8.0\Aula19.deps.json
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\bin\Debug\net8.0\Aula19.runtimeconfig.json
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\bin\Debug\net8.0\Aula19.dll
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\bin\Debug\net8.0\Aula19.pdb
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\Aula19.dll
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\refint\Aula19.dll
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\Aula19.pdb
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\Aula19.genruntimeconfig.cache
+C:\Users\PC USER\Desktop\code_sac\Aula19\Aula19\obj\Debug\net8.0\ref\Aula19.dll
